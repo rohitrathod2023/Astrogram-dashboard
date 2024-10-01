@@ -1,4 +1,3 @@
-import React from "react";
 import FigmaIcon from "../assets/figma.svg";
 import SlackIcon from "../assets/slack.svg";
 import TrelloIcon from "../assets/trello.svg";
